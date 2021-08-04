@@ -9,6 +9,7 @@ using namespace std;
 
 using namespace std;
 
+//Task 2---------------------------------------------------
    ostream& endll(ostream& os) {
        cout.clear();
     return os << "\n" << "\n";
